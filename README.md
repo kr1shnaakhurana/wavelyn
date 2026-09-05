@@ -35,7 +35,7 @@ A modern Android music streaming application featuring synced lyrics, dynamic au
 
 <div align="center">
 
-<img src="images/all.png" width="500"/>
+<img src="images/all1.png" width="500"/>
 </div>
 
 ---
