@@ -4,7 +4,7 @@
 <div align="center">
 
 <h1>
-<img src="images/ic_tunee_logo.png" width="35" alt="Tunee Logo"> Tunee</h1>
+<img src="images/ic_tunee_logo.png" width="35" alt="Tunee Logo"> Wavelyn</h1>
 
 ### Your Music. Your Vibe.
 
@@ -52,11 +52,11 @@ A modern Android music streaming application featuring synced lyrics, dynamic au
 
 ---
 
-## 🎯 Why Tunee?
+## 🎯 Why Wavelyn?
 
-Tunee was built from scratch with a focus on performance, simplicity and user experience.
+wavelyn was built from scratch with a focus on performance, simplicity and user experience.
 
-Unlike traditional music applications, Tunee combines:
+Unlike traditional music applications, wavelyn combines:
 
 - Beautiful dynamic visuals
 - Seamless playback
@@ -70,7 +70,7 @@ into a single modern music experience.
 
 ## 📥 Download
 
-Release builds will be available soon.
+beta release is available check for latest releases in the releases section.
 
 ---
 
@@ -102,7 +102,7 @@ Built with ❤️ by **Krishna Khurana**
 
 <div align="center">
 
-### Tunee 🎵
+### Wavelyn 🎵
 
 Modern Music Streaming Experience
 
