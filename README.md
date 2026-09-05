@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Tunee Banner"/>
+  <img src="images/bann.png" alt="Tunee Banner"/>
 </p>
 <div align="center">
 
