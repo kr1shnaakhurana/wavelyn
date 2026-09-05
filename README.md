@@ -96,7 +96,7 @@ beta release is available check for latest releases in the releases section.
 
 ## 👨‍💻 Developer
 
-Built with ❤️ by **Krishna Khurana**
+Built with ❤️ by <a href="krishnakhurana.vercel.app/">**Krishna Khurana**</a>
 
 ---
 
